@@ -1,3 +1,12 @@
+---
+title: 'QQ签名'
+date: 2023-07-14 01:22:33
+tags: []
+published: true
+hideInList: true
+feature: 
+isTop: false
+---
 # qqsign
 # HuggingFace部署签名服务
 
@@ -28,12 +37,11 @@
 
 **ANDROID_ID：**
 
-请打开您的device.json，查看
+打开go-cqhttp→device.json
+![](https://alancn.gitee.io/post-images/1689270030213.png)
+如果不是这个界面，可以按下CTRL+shift+F
 
-![device文件](https://img-blog.csdnimg.cn/b6198cc8221648dc85fbb242ec5bc255.png)
-![查看ANDROID_ID](https://img-blog.csdnimg.cn/f313264930344b8599b6dfd2d940cb69.png)
-
-填写好后，点击**Duplicate this Space**，将自动为您部署
+填写好后，点击**Duplicate this Space**，将自动部署
 
 ![开始部署](https://img-blog.csdnimg.cn/121ba7ea6c124d91966ffd5131b30c69.png)
 
@@ -54,9 +62,9 @@
 ## 第四步：填写并使用
 
 打开config.yml
-![](https://alancn.gitee.io/post-images/1689269121480.png)
+![](https://alancn.gitee.io/post-images/1689269641506.png)
 
 找到sign-server
-![](https://alancn.gitee.io/post-images/1689269220417.png)
+![](https://alancn.gitee.io/post-images/1689269645293.png)
 填写
-https://此处为你复制的地址/sign
+此处为你复制的地址+/sign     
