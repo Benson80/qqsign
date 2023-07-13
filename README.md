@@ -54,20 +54,10 @@
 
 ## 第四步：填写并使用
 
-在config中找到bot.yaml文件
+打开config.yml
+![](https://alancn.gitee.io/post-images/1689269121480.png)
 
-![bot配置项路径](https://img-blog.csdnimg.cn/25a96210007a4beba978bca719fff717.png)
-
-在底部添加：`sign_api_addr: https://此处为你复制的地址/sign`
-（直接复制的地址末尾没有/sign，请自行添加/sign，冒号后面必须添上一个空格）
-
-![增加配置项](https://img-blog.csdnimg.cn/81a3666013e9436bad31c40986ade90e.png)
-
-
-
-## 后记：为什么我遇到了问题
-1. 检查克隆时是否填写了必须要填的三项**COUNT**，**TXLIB_VERSION**，**ANDROID_ID**，否则克隆后空间会报错\
-2. **Visibility**必须改成Public，否则第三步会没有**Embed this Space**，且机器人无法访问接口\
-3. 请仔细检查启动时使用的ICQQ协议版本与空间所填写的**TXLIB_VERSION**是否一致，**ANDROID_ID**是否与device.json中的一致\
-4. 请检查服务器是否能访问huggingface.co\
-5. 若仍有问题，可加入QQ群：621069204，询问解决办法\
+找到sign-server
+![](https://alancn.gitee.io/post-images/1689269220417.png)
+填写
+https://此处为你复制的地址/sign
