@@ -1,5 +1,6 @@
 # HuggingFace部署签名服务
 
+对接go-cqhttp
 优点：不需要服务器搭建，白嫖Huggingface的2核16G服务器，一键克隆即可运行，一人一地址，避免公共使用导致集体封号
 
 缺点：移动网络无法访问HuggingFace
@@ -56,5 +57,5 @@
 
 找到sign-server
 ![](https://alancn.gitee.io/post-images/1689269645293.png)
-填写
+
 此处为你复制的地址+/sign     
