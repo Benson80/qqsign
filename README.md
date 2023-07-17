@@ -59,4 +59,5 @@
 找到sign-server
 ![](https://alancn.gitee.io/post-images/1689269645293.png)
 
-此处为你复制的地址+/sign     
+此处为你复制的地址+/sign 
+sign-server:此处加一次空格后面接上链接
