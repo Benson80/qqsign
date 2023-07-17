@@ -61,4 +61,8 @@
 
 此处为你复制的地址+/sign 
 
-sign-server:此处加一次空格后面接上链接
+```plaintext
+sign-server: 'URL/sign '
+#注意 server:  此冒号右边需要加上一次空格
+#也可复制我的格式，替换URL即可
+```
