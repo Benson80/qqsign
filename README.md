@@ -66,3 +66,5 @@ sign-server: 'URL/sign '
 #注意 server:  此冒号右边需要加上一次空格
 #也可复制我的格式，替换URL即可
 ```
+
+视频教程:https://www.bilibili.com/video/BV1yu4y1S7Zq/?share_source=copy_web&vd_source=10e97efb91b3a775e5b83c27743a2ada
