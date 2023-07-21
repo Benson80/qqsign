@@ -53,8 +53,7 @@ sign-server: 'URL/sign '
 #也可复制我的格式，替换URL即可
 ```
 
-
-
+### 如果最后还是登录不上可以尝试更换协议2，扫码登录
 
 ## 改写于CIkeyQi的go-cqhttp签名服务
 <https://github.com/CikeyQi/QQsign_docs/blob/main/index.md>
