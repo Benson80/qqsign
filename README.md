@@ -13,29 +13,11 @@
 
 ## 第二步：填写相应的项
 
- **Visibility：**
- 
- 修改为Public，一定要公开，否则无法正常访问接口
- 
- **COUNT：**
- 
- Unidbg实例数量 ，官方建议等于核心数，免费空间是2核16GB，所以这里建议填`2`。（数值越大并发能力越强，内存占用越大）
- 
  **TXLIB_VERSION：**
  
  本项请直接填写版本号即可，如`8.9.63`，不用填写路径！存放核心so文件的文件夹绝对路径，在本空间已经存放了官方提供的最近六个版本的so文件，包括`8.9.50` `8.9.58`或`8.9.63`，支持的所有版本号在txlib目录下，推荐使用高于8.9.50及以上的版本，您可以自行将so文件上传到空间的txlib文件夹中，选择自己的版本
- 
-![so文件存放路径](https://i.postimg.cc/jSDtXcVd/version.png)
-
-**ANDROID_ID：**
-
-打开go-cqhttp→device.json
-![](https://alancn.gitee.io/post-images/1689270030213.png)
-如果不是这个界面，可以按下CTRL+shift+F
 
 填写好后，点击**Duplicate this Space**，将自动部署
-
-![开始部署](https://img-blog.csdnimg.cn/121ba7ea6c124d91966ffd5131b30c69.png)
 
 ## 第三步：获取地址
 
@@ -59,10 +41,10 @@
 找到sign-server
 ![](https://alancn.gitee.io/post-images/1689269645293.png)
 
-此处为你复制的地址+/sign 
+此处为你复制的地址+/sign?key=114514 
 
 ```plaintext
-sign-server: 'URL/sign '
+sign-server: 'URL/sign?key=114514 '
 #注意 server:  此冒号右边需要加上一次空格
 #也可复制我的格式，替换URL即可
 ```
