@@ -59,5 +59,5 @@ sign-server: 'URL/sign '
 
 ### 如果最后还是登录不上可以尝试更换协议2，扫码登录
 
-## 改写于CIkeyQi的go-cqhttp签名服务
+## 原作者
 <https://github.com/CikeyQi/QQsign_docs/blob/main/index.md>
