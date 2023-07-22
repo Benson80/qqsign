@@ -1,9 +1,8 @@
 # qqsign
 # HuggingFace部署签名
 对接go-cqhttp
-优点：不需要服务器搭建，白嫖Huggingface的2核16G服务器，一键克隆即可运行，一人一地址，避免公共使用导致集体封号
 
-缺点：移动网络无法访问HuggingFace
+白嫖Huggingface的2核16G服务器，一键克隆即可运行，一人一地址，避免公共使用导致集体封号
 
 ## 第一步：克隆空间
 
