@@ -6,7 +6,7 @@
 
 ## 第一步：克隆空间
 
-打开已经部署好的空间：<[https://huggingface.co/spaces/link77/QQsign](https://huggingface.co/spaces/link77/QQsign)>，点击右上角三个点，点击**Duplicate this Space**
+打开已经部署好的空间：[https://huggingface.co/spaces/link77/QQsign](https://huggingface.co/spaces/link77/QQsign)，点击右上角三个点，点击**Duplicate this Space**
 
 ## 第二步：填写相应的项
 
