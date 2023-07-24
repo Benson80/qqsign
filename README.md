@@ -3,7 +3,7 @@
 对接go-cqhttp
 
 白嫖Huggingface的2核16G服务器，一键克隆即可运行，一人一地址，避免公共使用导致集体封号
-
+111
 ## 第一步：克隆空间
 
 打开部署好的空间：[(https://huggingface.co/spaces/lancc/QQsign)](https://huggingface.co/spaces/lancc/QQsign)，点击右上角三个点，点击**Duplicate this Space**
